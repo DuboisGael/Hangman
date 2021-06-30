@@ -44,6 +44,7 @@ let wordslist = [
   
 ];
 
+
 let Rand = Math.floor(Math.random() * wordslist.length); // prend un mot random.
 
 let Result = wordslist[Rand]; //variable  qui contient le mot selectionner .
