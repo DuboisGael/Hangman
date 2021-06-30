@@ -60,28 +60,28 @@ function remplace(){
 
   if (MaxTry==5){
 
-    document.getElementById("pendu1").src="/assets/image/pendu2.png"
+    document.getElementById("pendu1").src="assets/image/pendu2.png"
   }
 
   else if (MaxTry==4){
 
-    document.getElementById("pendu1").src="/assets/image/pendu3.png"
+    document.getElementById("pendu1").src="assets/image/pendu3.png"
   }
    else if (MaxTry==3){
 
-    document.getElementById("pendu1").src="/assets/image/pendu4.png"
+    document.getElementById("pendu1").src="assets/image/pendu4.png"
    }
    else if (MaxTry==2){
 
-    document.getElementById("pendu1").src="/assets/image/pendu5.png"
+    document.getElementById("pendu1").src="assets/image/pendu5.png"
    }
    else if (MaxTry==1){
 
-    document.getElementById("pendu1").src="/assets/image/pendu6.png"
+    document.getElementById("pendu1").src="assets/image/pendu6.png"
    }
    else if (MaxTry==0){
 
-    document.getElementById("pendu1").src="/assets/image/pendu7.png"
+    document.getElementById("pendu1").src="assets/image/pendu7.png"
    }
   }
 function message(message, color){
