@@ -45,6 +45,8 @@ let wordslist = [
 ];
 
 
+document.querySelector("#audio").volume = 0.03;
+
 let Rand = Math.floor(Math.random() * wordslist.length); // prend un mot random.
 
 let Result = wordslist[Rand]; //variable  qui contient le mot selectionner .
