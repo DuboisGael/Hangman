@@ -11,7 +11,11 @@ Exercice sur le java-script, visant à créer un jeu du pendu.
 
 ## Consigne du projet
 
-[https://github.com/becodeorg/CRL-Keller-3.31/blob/master/LearningPath/02.The-Hill/08.Javascript/challenges/hangman.md]
+[https://github.com/becodeorg/CRL-Keller-3.31/blob/master/LearningPath/02.The-Hill/08.Javascript/challenges/hangman.md] recopier consigne
+
+## principe
+
+## Screenshot
 
 ## Voir le projet
 
