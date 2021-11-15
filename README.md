@@ -22,9 +22,8 @@
 
 ## Screenshot
 
-![alt text](https://raw.githubusercontent.com/DuboisGael/Hangman/main/assets/image/hangman.png)
-![alt text](https://raw.githubusercontent.com/DuboisGael/Hangman/main/assets/image/hangman1.png)
-<img src="./assets/image/hangman.png" alt="drawing" style="width:200px;"/>
+<img src="./assets/image/hangman.png" style="width:400px;"/>
+<img src="./assets/image/hangman1.png" style="width:400px;"/>
 
 ## See the project
 
