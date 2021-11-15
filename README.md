@@ -9,7 +9,7 @@
 
 ## Project instructions
 
-[https://github.com/becodeorg/CRL-Keller-3.31/blob/master/LearningPath/02.The-Hill/08.Javascript/challenges/hangman.md] recopier consigne
+[https://github.com/becodeorg/CRL-Keller-3.31/blob/master/LearningPath/02.The-Hill/08.Javascript/challenges/hangman.md]
 
 ## About
 
@@ -21,6 +21,8 @@
 * check if the word as been found
 
 ## Screenshot
+
+![alt text](https://raw.githubusercontent.com/DuboisGael/Hangman/main/assets/image/hangman.png)
 
 ## See the project
 
