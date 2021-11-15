@@ -22,7 +22,7 @@
 
 ## Screenshot
 
-<img src="./assets/image/hangman.png" style="width:400px;"/>  <img src="./assets/image/hangman1.png" style="width:400px;"/>
+<img src="./assets/image/hangman.png" style="width:400px;"/>  <img src="./assets/image/hangman1.png" style="width:430px;"/>
 
 
 ## See the project
