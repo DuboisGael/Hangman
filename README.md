@@ -23,6 +23,7 @@
 ## Screenshot
 
 ![alt text](https://raw.githubusercontent.com/DuboisGael/Hangman/main/assets/image/hangman.png)
+![alt text](https://raw.githubusercontent.com/DuboisGael/Hangman/main/assets/image/hangman1.png)
 
 ## See the project
 
