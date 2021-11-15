@@ -6,20 +6,25 @@
 [![forthebadge](https://forthebadge.com/images/badges/uses-html.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/uses-css.svg)](https://forthebadge.com)
 
-Exercice sur le java-script, visant à créer un jeu du pendu.
-
 
 ## Consigne du projet
 
 [https://github.com/becodeorg/CRL-Keller-3.31/blob/master/LearningPath/02.The-Hill/08.Javascript/challenges/hangman.md] recopier consigne
 
-## principe
+## About
 
+* Propose an hidden word :chart:
+* Allow the selection of letters :chart:
+* Verify if a selected letter belongs to the word :chart:
+* Count the number of failure (lives) :chart:
+* Check if it's a game over :chart:
+* check if the word as been found :chart:
+* 
 ## Screenshot
 
-## Voir le projet
+## See the project
 
-Vous pouvez visualiser la page web via cette url [https://github.com/DuboisGael/Hangman](https://duboisgael.github.io/Hangman/)
+You can view my project here [https://github.com/DuboisGael/Hangman](https://duboisgael.github.io/Hangman/)
 
 ## Librairie / Toolkit
 * [Fontawesome](https://fontawesome.com/) - Kit d'icône
