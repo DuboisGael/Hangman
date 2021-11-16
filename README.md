@@ -27,7 +27,7 @@
 
 ## See the project
 
-You can view my project here [https://github.com/DuboisGael/Hangman](https://duboisgael.github.io/Hangman/)
+You can view my project here [https://gael-hangman.vercel.app/](https://gael-hangman.vercel.app/)
 
 ## Librairie / Toolkit
 * [Fontawesome](https://fontawesome.com/) - Kit d'icône
