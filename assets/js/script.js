@@ -59,6 +59,10 @@ let MaxTry = 6;
 
 let loose= false
 
+let win = new Audio('./assets/audio/mario-win.mp3');
+
+let loos = new Audio('./assets/audio/mario-loose.mp3')
+
 function remplace(){
 
   if (MaxTry==5){
@@ -132,7 +136,11 @@ if (loose || JSON.stringify(SplitWord) == JSON.stringify(Goodword)) {
     remplaceLetter(lettre)
     message("Good" , "green") 
     if (JSON.stringify(SplitWord) == JSON.stringify(Goodword)) {
+      document.querySelector("#audio").volume = 0.00;
+      win.play();
       alert("win");
+      
+
     }
    }else{
      message("Try again" , "red")
@@ -140,6 +148,8 @@ if (loose || JSON.stringify(SplitWord) == JSON.stringify(Goodword)) {
      remplace()
      document.getElementById("numberFail").innerHTML=MaxTry
      if(MaxTry<=0){
+      document.querySelector("#audio").volume = 0.00;
+      loos.play();
        alert("Game Over");
        loose =true
      }
